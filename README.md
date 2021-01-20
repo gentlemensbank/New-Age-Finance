@@ -4,4 +4,4 @@ A collection of valuable information regarding digital assets, decentralzied fin
 
 ## Overview of DeFi Protocols
 
-* [DeFi Glossary](https://github.com/gentlemensbank/New-Age-Finance/blob/main/defi-glossary.md) Originally started by [Yearn.Finance](https://docs.yearn.finance/defi-glossary)
+* [DeFi Glossary](https://github.com/gentlemensbank/New-Age-Finance/blob/main/defi-glossary.md) (Originally started by [Yearn.Finance](https://docs.yearn.finance/defi-glossary))
